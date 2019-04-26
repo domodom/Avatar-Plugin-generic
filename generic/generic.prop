@@ -1,0 +1,18 @@
+{
+  "modules": {
+    "generic": {
+      "version": "2.0",
+      "name": "Les standards",
+      "rules": {
+        "restart": ["restart"],
+        "muteOnOffClient": ["sleep mode"],
+        "intercom": ["intercom", "intercom mode", "walkie talkie"],
+        "getCurrentRoom": ["what * current room"],
+        "lockRoom": ["(~lock~|~fix~|6) * room?"],
+        "unlockRoom": ["(~unlock~|~free~) * room?"],
+        "isConnected": ["(customer|client) * ~connect~", "(customers|customer) * log in", "connected customer", "connected customers", "customer connected", "customers connected", "connected client", "connected clients", "clients connected", "status * connection"]
+      },
+      "active": true
+    }
+  }
+}

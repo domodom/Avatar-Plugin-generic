@@ -1,0 +1,12 @@
+{
+    "speaker_Salon": {
+        "room": "Salon",
+        "x": 995,
+        "y": 101
+    },
+    "speaker_Chambre": {
+        "room": "Chambre",
+        "x": 995,
+        "y": 39
+    }
+}

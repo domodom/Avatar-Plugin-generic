@@ -1,0 +1,24 @@
+{
+  "id": "speaker_Chambre",
+  "name": "speaker_Chambre",
+  "classes": {
+    "speaker": 1
+  },
+  "selected": false,
+  "locked": false,
+  "position": {
+    "x": 995,
+    "y": 39
+  },
+  "style": {
+    "background-image": "D:\\AVATAR\\Serveur\\resources\\core\\plugins\\generic\\assets\\images\\speaker.png",
+    "height": 30,
+    "width": 30,
+    "border-opacity": 0,
+    "font-size": "11px",
+    "color": "white",
+    "text-valign": "bottom",
+    "text-outline-width": 1,
+    "text-outline-color": "#999"
+  }
+}

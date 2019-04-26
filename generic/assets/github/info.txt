@@ -1,0 +1,3 @@
+Plugin Generic
+
+- Ajout d'une icone sur l'interface serveur lorsqu'un client est sur mute.
