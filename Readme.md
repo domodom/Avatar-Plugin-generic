@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/Spikharpax/Avatar-Serveur/master/logo/Avatar.jpg)
+![](https://raw.githubusercontent.com/domodom/Avatar-Plugin-generic/master/generic/assets/images/screen.png)
 
 ** PLUGIN GENERIC **
 
