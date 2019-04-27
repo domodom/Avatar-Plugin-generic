@@ -241,7 +241,7 @@ exports.action = function(data, callback){
 				return info ('Start listenning', 'room:', client, "Le client n'existe pas");
 
 			socketClient.emit('start_listen');
-			Avatar.Interface.unmuteIcon(client);
+			addSpeakerGraph(client);
 
 			var jsonClient = fs.readJsonSync('./resources/core/muteClient.json', 'utf-8', (err) => {
 			  if (err) throw err;
